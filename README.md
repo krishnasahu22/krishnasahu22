@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @krishnasahu22
-- 👀 I’m interested in ... Web Developer,Software developer,AI developer.
-- 🌱 I’m currently learning ... Artificial Intelligence and Data Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... After 4 years I am now 1st year
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-krishnasahu22/krishnasahu22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm Krishna Sahu, a passionate tech learner and aspiring Data Scientist currently pursuing B.Tech in Artificial Intelligence & Data Science at Priyadarshini College of Engineering, Nagpur.
+About Me
+   3rd Year B.Tech (AI & DS) Student
+   Exploring Machine Learning, Data Analytics & Web Development
+   Hands-on with Python | MySQL | Power BI | HTML | CSS | IoT Concepts
+   Currently building Machine Learning projects and learning Data Visualization
+   Passionate about solving real-world problems through AI & Data
+   Open to collaborations on AI/ML and Data-Driven Projects
+ Connect With Me
+    Email: krishnasahu9446@gmail.com
+    Nagpur, Maharashtra, India
