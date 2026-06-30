@@ -1,13 +1,58 @@
-Hey there! I'm Krishna Sahu, a passionate tech learner and aspiring Data Scientist currently pursuing B.Tech in Artificial Intelligence & Data Science at Priyadarshini College of Engineering, Nagpur.
+# Hi 👋, I'm Krishna
 
-About Me
+## 🚀 About Me
+🎓 B.Tech Student in Artificial Intelligence & Data Science
 
-   3rd Year B.Tech (AI & DS) Student
-   Exploring Machine Learning, Data Analytics & Web Development
-   Hands-on with Python | MySQL | Power BI | HTML | CSS | IoT Concepts
-   Currently building Machine Learning projects and learning Data Visualization
-   Passionate about solving real-world problems through AI & Data
-   Open to collaborations on AI/ML and Data-Driven Projects
+💻 Passionate about AI, Machine Learning, and Data Science.
+
+🌱 Currently learning:
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Python
+- React.js
+
+🎯 Goal
+Become an AI Engineer and build impactful AI Agent.
+
+---
+
+## 🛠 Tech Stack
+
+Programming Languages
+- Python
+- JavaScript
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
+- MySQL
+
+AI/ML
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+
+Tools
+- Git
+- GitHub
+- VS Code
+
+
+
+## 📫 Connect with Me
+
+LinkedIn:
+www.linkedin.com/in/krishnasahu2209
+
+Email:
+krishnasahu9446@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
    
  Connect With Me
  
