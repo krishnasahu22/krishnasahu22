@@ -1,23 +1,23 @@
-# Hi 👋, I'm Krishna
+# Hi , I'm Krishna
 
-## 🚀 About Me
-🎓 B.Tech Student in Artificial Intelligence & Data Science
+##  About Me
+B.Tech Student in Artificial Intelligence & Data Science
 
 💻 Passionate about AI, Machine Learning, and Data Science.
 
-🌱 Currently learning:
+ Currently learning:
 - Machine Learning
 - Deep Learning
 - Generative AI
 - Python
 - React.js
 
-🎯 Goal
+ Goal
 Become an AI Engineer and build impactful AI Agent.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Programming Languages
 - Python
@@ -42,7 +42,7 @@ Tools
 
 
 
-## 📫 Connect with Me
+##  Connect with Me
 
 LinkedIn:
 www.linkedin.com/in/krishnasahu2209
