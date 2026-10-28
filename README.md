@@ -3,7 +3,7 @@
 ##  About Me
 B.Tech Student in Artificial Intelligence & Data Science
 
-💻 Passionate about AI, Machine Learning, and Data Science.
+ Passionate about AI, Machine Learning, and Data Science.
 
  Currently learning:
 - Machine Learning
@@ -49,12 +49,3 @@ www.linkedin.com/in/krishnasahu2209
 
 Email:
 krishnasahu9446@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
-   
- Connect With Me
- 
-    Email: krishnasahu9446@gmail.com
-    Nagpur, Maharashtra, India
